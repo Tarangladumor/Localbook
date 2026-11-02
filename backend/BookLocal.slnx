@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BookLocal.Api/BookLocal.Api.csproj" />
+    <Project Path="src/BookLocal.Application/BookLocal.Application.csproj" />
+    <Project Path="src/BookLocal.Domain/BookLocal.Domain.csproj" />
+    <Project Path="src/BookLocal.Infrastructure/BookLocal.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BookLocal.IntegrationTests/BookLocal.IntegrationTests.csproj" />
+    <Project Path="tests/BookLocal.UnitTests/BookLocal.UnitTests.csproj" />
+  </Folder>
+</Solution>

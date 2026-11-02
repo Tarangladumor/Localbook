@@ -1,0 +1,11 @@
+c:\BookLocal\backend\src\BookLocal.Domain\bin\Debug\net10.0\BookLocal.Domain.deps.json
+C:\BookLocal\backend\src\BookLocal.Domain\bin\Debug\net10.0\BookLocal.Domain.dll
+C:\BookLocal\backend\src\BookLocal.Domain\bin\Debug\net10.0\BookLocal.Domain.pdb
+C:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\BookLocal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\BookLocal.Domain.AssemblyInfoInputs.cache
+C:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\BookLocal.Domain.AssemblyInfo.cs
+C:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\BookLocal.Domain.csproj.CoreCompileInputs.cache
+C:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\BookLocal.Domain.dll
+C:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\refint\BookLocal.Domain.dll
+C:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\BookLocal.Domain.pdb
+c:\BookLocal\backend\src\BookLocal.Domain\obj\Debug\net10.0\ref\BookLocal.Domain.dll

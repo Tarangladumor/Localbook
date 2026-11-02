@@ -1,0 +1,14 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace BookLocal.Application.Categories.DTOs;
+
+public class CategoryResponse
+{
+    public int Id { get; set; }
+
+    public string Name { get; set; } = string.Empty;
+
+    public string? Description { get; set; }
+
+    public DateTime CreatedAtUtc { get; set; }
+}
